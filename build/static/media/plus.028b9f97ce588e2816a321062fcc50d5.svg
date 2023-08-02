@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68" fill="none">
+  <g filter="url(#filter0_d_1_797)">
+    <g filter="url(#filter1_d_1_797)">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M34 60C50.5685 60 64 46.5685 64 30C64 13.4315 50.5685 0 34 0C17.4315 0 4 13.4315 4 30C4 46.5685 17.4315 60 34 60Z" fill="#4A475F"/>
+    </g>
+    <rect x="43" y="29.1816" width="1.63636" height="18" rx="0.818182" transform="rotate(90 43 29.1816)" fill="white"/>
+    <rect x="34.8184" y="39" width="1.63636" height="18" rx="0.818182" transform="rotate(180 34.8184 39)" fill="white"/>
+  </g>
+</svg>
